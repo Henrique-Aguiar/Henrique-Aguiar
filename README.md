@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Henrique Aguiar 👋
-- 🤖 Desenvolvedor Font-end
-- 🌱 Atualmente estou estudando ReactJS, NodeJS e Typescript
+
 
 <div align="center">
   <a href="https://github.com/Henrique-Aguiar">
